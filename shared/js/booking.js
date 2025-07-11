@@ -1,0 +1,1 @@
+console.log('Booking script loaded');

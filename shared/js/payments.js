@@ -1,0 +1,1 @@
+console.log('Payments view loaded');

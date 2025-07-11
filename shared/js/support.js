@@ -1,1 +1,1 @@
-
+console.log('Support messaging loaded');
